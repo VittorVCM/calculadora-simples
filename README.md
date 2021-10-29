@@ -1,4 +1,4 @@
 # Calculadora simples
-Este é um repositório com o exemplo criado pelo Google Colaboratory.
+Este é um código em python criado no Google Colaboratory.
 
 [calculadora.ipnyb](/calculadora.ipynb)
